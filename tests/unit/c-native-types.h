@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Olivier Dion <odion@efficios.com>
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #include <float.h>
 #include <limits.h>
 

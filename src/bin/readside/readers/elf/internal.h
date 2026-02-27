@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Olivier Dion <odion@efficios.com>
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 #ifndef READSIDE_READERS_ELF_INTERNAL_H
 #define READSIDE_READERS_ELF_INTERNAL_H
 

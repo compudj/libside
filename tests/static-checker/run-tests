@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# SPDX-FileCopyrightText: 2024 Olivier Dion <odion@efficios.com>
+#
+# SPDX-License-Identifier: MIT
+
 CURDIR=$(dirname "$0")/
 TESTDIR=$CURDIR/..
 SRCINCLUDEDIR=$SIDE_TESTS_SRCDIR/../include

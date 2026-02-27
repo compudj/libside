@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2024 Olivier Dion <odion@efficios.com>
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
 side_static_event(event, "provider", "event", SIDE_LOGLEVEL_ERR,
 	side_field_list(
 		side_field_optional_literal("foo", side_elem(side_type_u32())),
